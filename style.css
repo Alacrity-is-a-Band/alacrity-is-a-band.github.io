@@ -1,9 +1,21 @@
+@font-face {
+  font-family: 'libre';
+  src: url('libre.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'lime';
+  src: url('lime.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 html {
   background: #d76144;
   background-size: 100% 100%;
 }
 body {
-  font-family: lime.ttf;
+  font-family: lime;
   line-height: 1.5;
   margin: 0 auto;
   max-width: 40em;
@@ -15,7 +27,7 @@ body {
   
 }
 h2, h3, h4, h5, h6 {
-  font-size: 5vw;
+  font-size: 4vw;
   margin: 1.25em 0 0.5em 0;
   line-height: 1.2;
   text-align: center;
@@ -29,7 +41,7 @@ h1 {
   text-align: center;
   font-weight: bold;
   color: #0c4648;
-  font-family: libre.ttf;
+  font-family: libre;
 }
 a:link {
   color: #d76144;
