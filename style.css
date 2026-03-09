@@ -22,12 +22,12 @@ body {
   padding: 1em 1em;
   text-align: center;
   width: 80vw;
-  font-size: 3vw;
+  font-size: 2vw;
   background: #dfceb9;
   
 }
 h2, h3, h4, h5, h6 {
-  font-size: 4vw;
+  font-size: 3vw;
   margin: 1.25em 0 0.5em 0;
   line-height: 1.2;
   text-align: center;
@@ -35,7 +35,7 @@ h2, h3, h4, h5, h6 {
   color: #3b6061;
 }
 h1 {
-  font-size: 7vw;
+  font-size: 4vw;
   margin: 1.25em 0 0.5em 0;
   line-height: 1.2;
   text-align: center;
