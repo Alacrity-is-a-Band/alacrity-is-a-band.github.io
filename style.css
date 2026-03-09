@@ -71,8 +71,13 @@ h4:hover a:empty, h5:hover a:empty, h6:hover a:empty {
 img {
   max-width: 100%;
 }
-
-
+.sunset {
+background-image: url("sunset.avif");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;  
+}
 
 
 
