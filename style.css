@@ -78,28 +78,28 @@ background-image: url("keyboards.png");
 background-repeat: no-repeat;
 background-position: center;
 background-size: 70vw;
-background-attachment: fixed;  
 border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
+perspective: 500px;
 }
 .fl {
 background-image: url("flstudio.webp");
 background-repeat: no-repeat;
 background-position: center;
 background-size: 70vw;
-background-attachment: fixed;  
 border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
+perspective: 500px;
 }
 .muse {
 background-image: url("muse.webp");
 background-repeat: no-repeat;
 background-position: center;
 background-size: 70vw;
-background-attachment: fixed;  
 border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
+perspective: 500px;
 }
