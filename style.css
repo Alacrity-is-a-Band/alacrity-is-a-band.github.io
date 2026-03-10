@@ -81,7 +81,6 @@ background-size: 70vw;
 border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
-perspective: 500px;
 }
 .fl {
 background-image: url("flstudio.webp");
@@ -91,7 +90,6 @@ background-size: 70vw;
 border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
-perspective: 500px;
 }
 .muse {
 background-image: url("muse.webp");
@@ -101,5 +99,4 @@ background-size: 70vw;
 border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
-perspective: 500px;
 }
