@@ -72,8 +72,8 @@ h4:hover a:empty, h5:hover a:empty, h6:hover a:empty {
 img {
   max-width: 100%;
 }
-.sunset {
-background-image: url("sunset.avif");
+.keyboards {
+background-image: url("keyboards.png");
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -82,7 +82,26 @@ border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
 }
-
+.fl {
+background-image: url("flstudio.webp");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;  
+border-radius: 10px;
+background-position: bottom;
+padding: 10vw 10vw 10vw 10vw
+}
+.muse {
+background-image: url("muse.webp");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;  
+border-radius: 10px;
+background-position: bottom;
+padding: 10vw 10vw 10vw 10vw
+}
 
 
 
