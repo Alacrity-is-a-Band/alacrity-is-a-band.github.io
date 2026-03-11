@@ -100,3 +100,6 @@ border-radius: 10px;
 background-position: bottom;
 padding: 10vw 10vw 10vw 10vw
 }
+iframe {
+  width: 70vw;
+}
