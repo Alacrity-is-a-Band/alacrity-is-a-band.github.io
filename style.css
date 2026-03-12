@@ -11,7 +11,7 @@
   font-style: normal;
 }
 html {
-  background: #DF0000;
+  background: #000000;
   background-size: 100% 100%;
 }
 body {
@@ -35,7 +35,7 @@ h2, h3, h4, h5, h6 {
   line-height: 1.2;
   text-align: center;
   font-weight: bold;
-  color: #DF0000;
+  color: #000000;
 }
 h1 {
   font-size: 4vw;
@@ -43,7 +43,7 @@ h1 {
   line-height: 1.2;
   text-align: center;
   font-weight: bold;
-  color: #830000;
+  color: #000000;
   font-family: libre;
 }
 a:link {
