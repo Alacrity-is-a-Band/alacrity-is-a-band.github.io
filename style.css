@@ -11,11 +11,11 @@
   font-style: normal;
 }
 html {
-  background: #0c4648;
+  background: #DF0000;
   background-size: 100% 100%;
 }
 body {
-  color: #3b6061;
+  color: #000000;
   font-family: lime;
   line-height: 1.5;
   margin: 0 auto;
@@ -24,7 +24,7 @@ body {
   text-align: center;
   width: 80vw;
   font-size: 2vw;
-  background: #dfceb9;
+  background: #BDBDBD;
   margin-top: 10%;
   margin-bottom: 10%;
   border-radius: 10px;
@@ -35,7 +35,7 @@ h2, h3, h4, h5, h6 {
   line-height: 1.2;
   text-align: center;
   font-weight: bold;
-  color: #3b6061;
+  color: #DF0000;
 }
 h1 {
   font-size: 4vw;
@@ -43,7 +43,7 @@ h1 {
   line-height: 1.2;
   text-align: center;
   font-weight: bold;
-  color: #0c4648;
+  color: #830000;
   font-family: libre;
 }
 a:link {
